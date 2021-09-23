@@ -24,5 +24,7 @@ private void DataGrid_CurrentCellValueChanged(object sender, Syncfusion.UI.Xaml.
 
 ```
 
+KB article - [How to listen checked state change of the check boxes in WPF DataGrid(SfDataGrid) GridCheckBoxColumn?](https://www.syncfusion.com/kb/12504/how-to-listen-checked-state-change-of-the-check-boxes-in-wpf-datagridsfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
